@@ -15,7 +15,7 @@ members = [
     "crates/database", 
     "crates/db-macros",
     "crates/runtime",
-
+    "crates/pgvector",
     # "crates/runtime-mods/evm",
     "crates/runtime-mods/roleplay",
     "crates/runtime-mods/character-creation",
